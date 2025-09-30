@@ -1,0 +1,19 @@
+# Basis
+numpy
+sounddevice
+soundfile
+pyyaml
+
+# Wakeword
+openwakeword
+
+# STT (Speech-to-Text) - du kannst eins oder beide nutzen
+faster-whisper
+vosk
+
+# TTS (Text-to-Speech)
+pyttsx3
+
+# Extras
+requests
+tqdm
